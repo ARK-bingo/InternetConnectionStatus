@@ -1,6 +1,6 @@
 # InternetConnectionStatus
 Android application to display internet connection status using broadcastreceiver in Kotlin programming language.
-
+驱蚊器恶趣味
 Detecting internet connection status in your app is very easy and won’t take more than 5mins. In this program you will learn how to detect internet connection status manually and automatically. Using broadcast receiver, your app will be automatically notified when there is a change in network connection.
 
 VIEW 1    |  VIEW 2 |    VIEW 3
